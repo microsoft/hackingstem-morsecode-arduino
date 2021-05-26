@@ -6,7 +6,7 @@ Microcontroller code for Microsoft Hacking STEM Harnessing Electricity to Commun
 1. Build your Telegraph!
 1. Use [Arduino IDE](https://www.arduino.cc/en/Main/Software) to flash the .ino to your [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) microcontroller
 1. Verify data interactions in Excel
-1 Ready, Set, Science!
+1. Ready, Set, Science!
 
 # Microsoft Data Streamer Resources
 1. https://aka.ms/data-streamer-developer
