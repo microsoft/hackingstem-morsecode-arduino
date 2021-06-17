@@ -19,6 +19,10 @@
  * In Mode 1 a Morse Code message is received from Excel. This message is translated into
  * LED and speaker output. 
  * 
+ * Comments, contributions, suggestions, bug reports, and feature requests
+ * are welcome! For source code and bug reports see:
+ * https://github.com/microsoft/hackingstem-morsecode-arduino
+ * 
  * 2017 David Myka - Microsoft EDU Workshop
  * 
  */
