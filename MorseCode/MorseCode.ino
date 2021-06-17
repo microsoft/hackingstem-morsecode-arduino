@@ -1,6 +1,8 @@
 /*
  * Telegraph Key code for use Harnessing Electricity to Comminicate lesson plan 
- * Available from the Microsoft Education Workshop at http://aka.ms/hackingSTEM
+ * Available from the Microsoft Education Workshop at 
+ * https://www.microsoft.com/en-us/education/education-workshop/telegraph.aspx
+ * http://aka.ms/hackingSTEM
  * 
  * This projects uses an Arduino UNO microcontroller board. More information can
  * be found by visiting the Arduino website: https://www.arduino.cc/en/main/arduinoBoardUno
